@@ -20,25 +20,21 @@ The Post-Quantum Readiness Toolkit provides a structured approach to assessing c
 
 ## Core Components
 
-**Cryptographic Inventory**
+The toolkit is being developed around five practical capabilities:
 
-A structured record of cryptographic assets, algorithms, protocols, applications, and dependencies.
+1. **Cryptographic Inventory:** A structured template for identifying cryptographic assets, dependencies, ownership, and migration considerations.
+2. **PQC Readiness Assessment:** A questionnaire to evaluate organizational preparedness across governance, discovery, risk, technology, and planning.
+3. **Risk Prioritization:** An initial screening matrix to help prioritize cryptographic assets and dependencies for further assessment.
+4. **Migration Roadmap:** A phased approach to governance, discovery, assessment, architecture, testing, implementation, and continuous improvement.
+5. **Executive Reporting:** Suggested indicators to communicate readiness, dependencies, risks, and progress to leadership.
 
-**Readiness Assessment**
+### Project Resources
 
-A practical assessment of cryptographic visibility, governance, technical preparedness, and migration capability.
-
-**Risk Prioritization**
-
-A consistent approach to identifying systems that warrant early attention based on risk and business criticality.
-
-**Migration Planning**
-
-A phased approach covering discovery, testing, dependency management, implementation, and validation.
-
-**Executive Reporting**
-
-A concise view of key risks, priorities, ownership, decisions, and progress.
+- [Cryptographic Inventory Template](templates/cryptographic-inventory.csv)
+- [Cryptographic Inventory Guide](docs/cryptographic-inventory-guide.md)
+- [PQC Readiness Questionnaire](assessment/pqc-readiness-questionnaire.md)
+- [PQC Risk Prioritization Matrix](assessment/pqc-risk-prioritization-matrix.md)
+- [PQC Migration Roadmap](roadmap/pqc-migration-roadmap.md)
 
 ## Intended Audience
 
