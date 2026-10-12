@@ -122,15 +122,21 @@ Evidence: Governance reports, review minutes, and tracked actions.
 
 ## Scoring Method
 
-Score each applicable question from 0 to 3.
+Score each applicable question from 0 to 3 based on documented evidence. Use N/A only when a question genuinely does not apply, and record the rationale.
 
 Calculate the readiness score as:
 
 **Readiness score (%) = Total points achieved ÷ Maximum applicable points × 100**
 
-Exclude questions marked N/A from the maximum applicable points. If a question is unknown, do not award readiness points until its status has been assessed.
+- **Total points achieved:** Sum of scores for all applicable questions.
+- **Maximum applicable points:** Number of applicable questions multiplied by three.
+- **N/A responses:** Exclude these questions from both the total points achieved and the maximum applicable points.
+- **Unknown or unverified responses:** Record these as assessment gaps. Do not treat missing evidence as readiness or mark a question N/A solely because its status is unknown.
+- **No applicable questions:** If no questions are applicable, do not calculate a readiness score.
 
-Use the overall percentage as an indicative maturity measure, not as a measure of cryptographic security or proof of PQC compliance.
+For example, if 12 questions apply, the maximum possible score is 36. If the organization achieves 24 points, its readiness score is 66.7%.
+
+Use the overall percentage as an indicative assessment measure, not as a measure of cryptographic security or proof of PQC compliance. Review domain-level findings and material weaknesses separately, as an overall score can conceal critical gaps.
 
 ## Interpreting Results
 
