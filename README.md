@@ -73,7 +73,7 @@ This toolkit supports security assessment and migration planning. It is not a cr
 **Santosh Pillai**  
 Cybersecurity Leadership | AI Security and Governance | Emerging Technology Risk
 
-Website: https://santhoshpillai.com
+Website: https://santoshpillai.com
 
 LinkedIn: https://www.linkedin.com/in/santhoshk1
 
