@@ -137,7 +137,6 @@ Calculate the readiness score as:
 For example, if 12 questions apply, the maximum possible score is 36. If the organization achieves 24 points, its readiness score is 66.7%.
 
 Use the overall percentage as an indicative assessment measure, not as a measure of cryptographic security or proof of PQC compliance. Review domain-level findings and material weaknesses separately, as an overall score can conceal critical gaps.
-
 ## Interpreting Results
 
 - **0% to 24%:** Foundational capabilities require attention.
