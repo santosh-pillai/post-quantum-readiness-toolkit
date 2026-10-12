@@ -35,6 +35,8 @@ The toolkit is being developed around five practical capabilities:
 - [PQC Readiness Questionnaire](assessment/pqc-readiness-questionnaire.md)
 - [PQC Risk Prioritization Matrix](assessment/pqc-risk-prioritization-matrix.md)
 - [PQC Migration Roadmap](roadmap/pqc-migration-roadmap.md)
+- [PQC Assessment Scoring Guide](tools/pqc-assessment-scoring-guide.md)
+- [PQC Executive Assessment Report Template](templates/pqc-executive-assessment-report.md)
 
 ## Intended Audience
 
