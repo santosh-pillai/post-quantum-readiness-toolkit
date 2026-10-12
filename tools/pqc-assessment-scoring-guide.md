@@ -74,7 +74,7 @@ For each material finding, document:
 | Status | Current delivery status |
 | Closure Evidence | Evidence required to confirm completion |
 
-Prioritization should consider business impact, cryptographic exposure, data confidentiality requirements, technical dependencies, and migration complexity. A numerical score should support, not replace, professional risk judgment.
+Assess cryptographic risk using documented evidence of business impact, cryptographic exposure, data confidentiality requirements, and relevant dependencies. Evaluate migration complexity separately. Use both assessments, together with regulatory obligations and business constraints, to determine treatment sequencing, resource requirements, and delivery plans. Migration complexity must not independently increase the cryptographic risk rating. Numerical scores should support, not replace, professional risk judgment.
 
 ## 6. Escalation Criteria
 
